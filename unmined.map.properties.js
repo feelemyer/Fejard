@@ -9,7 +9,7 @@ var UnminedMapProperties = {
     maxRegionX: 4,
     maxRegionZ: 4,
     worldName: "NONAGONINFINITY",
-    background: "",
+    background: "000000",
     markers: new Array(),
     enableGrid: true,
     showGrid: true,
