@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -14,
-    minRegionZ: -7,
+    minRegionZ: -9,
     maxRegionX: 4,
     maxRegionZ: 6,
     worldName: "NONAGONINFINITY",
